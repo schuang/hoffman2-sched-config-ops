@@ -1,3 +1,1 @@
-# Hoffman2 Cluster Job Scheduler
-
-Documentation of Hoffman2 Cluster scheduler configuration
+# Hoffman2 scheduler configuration and operation
